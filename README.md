@@ -1,0 +1,12 @@
+- 👋 Hi, I’m @RadiateJam1
+- 👀 I’m interested in game development, webdev, and AI
+- 🌱 I’m currently learning C++ and Python, planning on JS
+- 💞️ I’m looking to collaborate on projects of any kind
+- 📫 reach me via the email shreyasjain690@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: My favorite games are: Sekiro and DOOM Eternal
+
+<!---
+RadiateJam1/RadiateJam1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
