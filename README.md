@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects of any kind
 - 📫 reach me via the email shreyasjain690@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: My favorite games are: Sekiro and DOOM Eternal
+- ⚡ Fun fact: I am NOT a night owl, I am just a VERY early bird.
 
 <!---
 RadiateJam1/RadiateJam1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
