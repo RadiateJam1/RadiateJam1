@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RadiateJam1
-- 👀 I’m interested in game development, webdev, and AI
-- 🌱 I’m currently learning C++ and Python, planning on JS
+- 👀 I’m interested in quantitative development
+- 🌱 I’m currently learning C++ and Java, planning on Rust
 - 💞️ I’m looking to collaborate on projects of any kind
 - 📫 reach me via the email shreyasjain690@gmail.com
 - 😄 Pronouns: he/him
